@@ -1,9 +1,6 @@
 # MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR
 
-# YOUTUBE LINK OF THE PROJECT:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OYaYT6DHOwY/0.jpg)](https://youtu.be/OYaYT6DHOwY)
 
-https://youtu.be/OYaYT6DHOwY
 
 # TECHNOLOGIES USED:
 1)	BACKEND: PYTHON
@@ -23,7 +20,6 @@ This module will help to user to download the questions & answers in different f
 
 # FLOW CHART/ ACTIVITY DIAGRAM:
 
-![Screenshot](https://raw.github.com/narender-rk10/MyQAGenerator.ai-AI-BASED-QUESTION-ANSWER-GENERATOR/master/SCREENSHOTS/image2.png)
 
 # CLASS DIAGRAM:
 
